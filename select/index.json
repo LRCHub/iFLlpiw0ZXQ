@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "破壊",
+  "base_artist": "巡巡",
+  "createdAt": "2026-01-08T17:15:07.313933Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "初音ミクの分裂→破壊",
+      "artist": "Storyteller(GAiA×cosMo＠暴走P)",
+      "has_synced": false,
+      "path": "select/01_初音ミクの分裂→破壊_Storyteller(GAiA×cosMo@暴走P).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "初音ミクの分裂→破壊",
+      "artist": "Storyteller(GAiA×cosMo@暴走P) feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/02_初音ミクの分裂→破壊_Storyteller(GAiA×cosMo@暴走P)_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "初音ミクの分裂→破壊",
+      "artist": "Storyteller",
+      "has_synced": true,
+      "path": "select/03_初音ミクの分裂→破壊_Storyteller.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "初音ミクの分裂→破壊",
+      "artist": "Storyteller(GAiA×cosMo@BousouP) feat. Hatsune, Miku",
+      "has_synced": false,
+      "path": "select/04_初音ミクの分裂→破壊_Storyteller(GAiA×cosMo@BousouP)_feat._Hatsune,_Miku.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "初音ミクの分裂→破壊 feat.初音ミク",
+      "artist": "Gaia",
+      "has_synced": false,
+      "path": "select/05_初音ミクの分裂→破壊_feat.初音ミク_Gaia.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "破壊",
+      "artist": "巡巡",
+      "has_synced": false,
+      "path": "select/pl_01_破壊_巡巡.txt"
+    }
+  ]
+}
